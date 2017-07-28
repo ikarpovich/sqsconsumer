@@ -1,6 +1,6 @@
 package middleware
 
-import "github.com/Wattpad/sqsconsumer"
+import "github.com/ikarpovich/sqsconsumer"
 
 // MessageHandlerDecorator is a decorator that can be applied to a handler.
 type MessageHandlerDecorator func(sqsconsumer.MessageHandlerFunc) sqsconsumer.MessageHandlerFunc

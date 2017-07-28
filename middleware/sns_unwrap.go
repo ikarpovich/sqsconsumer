@@ -3,7 +3,7 @@ package middleware
 import (
 	"encoding/json"
 
-	"github.com/Wattpad/sqsconsumer"
+	"github.com/ikarpovich/sqsconsumer"
 	"golang.org/x/net/context"
 )
 

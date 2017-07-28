@@ -9,7 +9,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/Wattpad/sqsconsumer"
+	"github.com/ikarpovich/sqsconsumer"
 	"golang.org/x/net/context"
 )
 

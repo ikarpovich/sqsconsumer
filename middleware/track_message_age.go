@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Wattpad/sqsconsumer"
-	"github.com/Wattpad/sqsconsumer/middleware/movingaverage"
-	"github.com/Wattpad/sqsconsumer/sqsmessage"
+	"github.com/ikarpovich/sqsconsumer"
+	"github.com/ikarpovich/sqsconsumer/middleware/movingaverage"
+	"github.com/ikarpovich/sqsconsumer/sqsmessage"
 	"golang.org/x/net/context"
 )
 

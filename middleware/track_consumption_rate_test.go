@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Wattpad/sqsconsumer"
+	"github.com/ikarpovich/sqsconsumer"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/net/context"
 )
