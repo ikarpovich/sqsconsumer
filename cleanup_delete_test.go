@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Wattpad/sqsconsumer/mock"
+	"github.com/ikarpovich/sqsconsumer/mock"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/sqs"
 	"github.com/golang/mock/gomock"

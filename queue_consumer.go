@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Wattpad/sqsconsumer/sqsmessage"
+	"github.com/ikarpovich/sqsconsumer/sqsmessage"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/sqs"
 	"golang.org/x/net/context"
